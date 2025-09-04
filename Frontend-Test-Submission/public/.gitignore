@@ -1,0 +1,24 @@
+# Node.js dependencies
+node_modules/
+
+# Build output
+build/
+
+# Logs
+npm-debug.log*
+
+# OS generated files
+.DS_Store
+
+# Local environment variables
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE/Editor specific files
+.vscode/
+.idea/
+
+# npm package lock file (optional but recommended to ignore in certain cases)
+package-lock.json
